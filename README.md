@@ -1,4 +1,4 @@
-# basic-rabitmq-demo
+# basic-rabbitmq-demo
 Simple rabbitmq demo to demo.
 
 1. `npm i`
